@@ -1,0 +1,419 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+    
+</head>
+<body>
+    
+    <div class="header">
+       <ul>
+          <li><a href="#"><font face="Tomatoes" size="0"><b>OUR OFFER</b></font></a></li>
+          <li><a href="#"><font face="Tomatoes" size="0"><b>ALL CATEGORIES</b></font></a></li>
+          <li><a href="#"><font face="Tomatoes" size="0"><b>MEN</b></font></a></li>
+          <li><a href="#"><font face="Tomatoes" size="0"><b>WOMEN</b></font></a></li>
+          <li><a href="#"><font face="Tomatoes" size="0"><b>KIDS</b></font></a></li>
+          <li><a href="#"><font face="Tomatoes" size="0"><b>ELECTRONICS</b></font></a></li>
+          <li><a href="#"><font face="Tomatoes" size="0"><b>HOME & LIVING</b></font></a></li>
+          <li><a href="#"><font face="Tomatoes" size="0"><b>MOBILE</b></font></a></li>
+          <li><a href="#"><font face="Tomatoes" size="0"><b>DAILY NEEDS</b></font></a></li>
+          <li><a href="#"><font face="Tomatoes" size="0"><b>ABOUT US</b></font></a></li>
+        
+        
+      </ul>
+       
+       <img id="logo" src="images/Kelly-Logo.png" alt="">
+        <h2><font color="white"><font face="Arial Narrow">FITNESS IN A CAN</font></font> <font color="#a2ca28">/</font></h2>
+        <h4><font color="white" face="Arial Narrow">YES YOU CAN</font> <font color="red">/</font></h4>
+        <img src="images/devider02.png" alt="">
+        
+    </div>
+    <div class="service">
+        <div class="service-main">
+            <div class="service1">
+                <img src="images/service2.png" alt="service2.png">
+                <h2><font face="Arial Narrow">Resources</font></h2>
+                <p><font face="Arial Narrow">Easily manage your inspiration and <br> work-in-progress by
+            dragging images into <br> projects and sharable client groups.Easily <br> manage your inspiration and</font>
+            </p><br><br>
+                <a href="#"><font face="Arial Narrow">Explore more→</font></a>
+            </div>
+            <div class="service2">
+                <img src="images/service(2).png" alt="">
+                <h2><font face="Arial Narrow">Training & Founding</font></h2>
+                <p><font face="Arial Narrow">Easily manage your inspiration and <br> work-in-progress by
+            dragging images into <br> projects and sharable client groups.</font>
+            </p><br><br>
+                <a href="#"><font face="Arial Narrow">Browse training→</font></a>
+            </div>
+            <div class="service3">
+                <img src="images/service3.png" alt="">
+                <h2><font face="Arial Narrow">Connect</font></h2>
+                <p><font face="Arial Narrow">Easily manage your inspiration and <br> work-in-progress by
+            dragging images into <br> projects and sharable client groups.Easily <br> manage your inspiration</font>
+            </p><br><br>
+                <a href="#"><font face="Arial Narrow">Connect now→</font></a>
+            </div>
+            <div class="service4">
+                <img src="images/service%20(4).png" alt="">
+                <h2><font face="Arial Narrow">Communicate</font></h2>
+                <p><font face="Arial Narrow">Easily manage your inspiration and <br> work-in-progress by
+            dragging images into <br> projects and sharable client groups.Easily</font>
+            </p><br><br>
+                <a href="#"><font face="Arial Narrow">Start now→</font></a>
+            </div>
+        </div>
+    </div>
+    
+    
+    <div class="woman">
+        <div class="woman-main">
+            <div class="woman-left">
+                <h4><font face="Arial Narrow">IT'S ALL ABOUT</font></h4>
+                 <h2><font face="Arial Narrow">FITNESS FIRST</font></h2>
+                 <img src="images/woman-drop.png" alt="">
+                <p><font face="Arial Narrow">Lorem ipsum dolor sit amet, consectetur <br> adipisicing elit. Eaque ab quisquam id, <br> error repudiandae itaque necessitatibus molestia <br> unde saepe porro. Doloribus, magnam.</font></p>
+                <a href="#"><font face="Arial Narrow">read more</font></a>
+            </div>
+            <div class="woman-right">
+                 <h4><font color="red" face="Arial Narrow">Active Users</font><font color="white" face="Arial Narrow">(34)</font>
+                <img id="pvr" src="images/header%20shape.png" alt=""></h4>
+            </div>
+        </div>
+    </div>
+    <div class="watch">
+        <div class="watch-main">
+            <div class="watch-left">
+                <h4><font face="Arial Narrow">Product USed(658)</font>
+                <img id="pvr" src="images/header%20shape.png" alt=""></h4>
+            </div>
+            <div class="watch-right">
+                <h4><font face="Arial Narrow">YOUR LOVE</font></h4>
+                 <h2><font face="Arial Narrow">YOUR BODY</font></h2>
+                 <img src="images/woman-drop.png" alt="">
+                <p><font face="Arial Narrow">Lorem ipsum dolor sit amet, consectetur <br> adipisicing elit. Eaque ab quisquam id, <br> error repudiandae itaque necessitatibus molestia <br> unde saepe porro. Doloribus, magnam.</font></p>
+                <a href="#"><font face="Arial Narrow">read more</font></a>
+            </div>
+        
+    </div>
+    <div class="man">
+         <div class="man-main">
+         <div class="man-left"></div>
+        <div class="man-right">
+            <h4><font face="Arial Narrow">24TH AUGEST</font></h4>
+            <h4 id="cast"><font face="Arial Narrow">HEALTH & FITNESS</font> 
+            <img id="img-loca" src="images/health%20and%20fitness%20logo.png" alt="">
+            </h4>
+        </div>
+    </div>
+    <div class="lifestyle">
+        <div class="lifestyle-main">
+         <div class="lifestyle-left">
+             <h4 id="tt"><font face="Arial Narrow">TRACK YOUR</font></h4>
+                 <h2 id="yy"><font face="Arial Narrow">LIFESTYLE</font></h2>
+                  <img src="images/contact_logo.png" alt="">
+               <p><font face="Arial Narrow">Lorem ipsum dolor sit amet, consectetur <br> adipisicing elit. Eaque ab quisquam id, <br> error repudiandae itaque necessitatibus molestia <br> unde saepe porro. Doloribus, magnam.</font></p>
+         </div>
+        <div class="lifestyle-right">
+           <h2><font face="Arial Narrow">SUMMER OF FUN</font></h2>
+            <P><font face="Arial Narrow">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet, consequuntur quos ea doloribu <br> odio porro, eius sunt incidunt, ratione vitae nobis s accusantium.</font></P>
+        </div>
+    </div>
+    <div class="fruits">
+         <div class="fruits-main">
+            <div class="fruits-left"></div>
+            <div class="fruits-right"></div>
+    </div>
+    <div class="habits">
+         <div class="habits-main">
+            <div class="habits-left">
+                <h4 id="dd"><font face="Arial Narrow">TRACK YOUR</font></h4>
+                <h2 id="ss"><font face="Arial Narrow">GET INVOLVED IN YOURSELF</font></h2>
+                <img src="images/Painapple_logo.png" alt="">
+                <p><font face="Arial Narrow">Lorem ipsum dolor sit amet, consectetur adipisicing molestia sicing consectetur adipisicing elit. Eaque ab quisquam idm <br> error repudiandae itaque necessitatibus consectetur adipisicing molestia error adipisicing molestia erro repudiandae <br> adipisicing molestia erro unde saepe error repudiandae consectetur adipisicing porro. Doloribus, magnam.</font></p>
+            </div>
+            <div class="habits-right">
+              <h4 id="qq"><font face="Arial Narrow">IMPROVE YOUR</font></h4>
+                 <h2 id="rr"><font face="Arial Narrow">EATING HABITS</font></h2>
+                 <img src="images/droup%20out.png" alt="">
+                <p><font face="Arial Narrow">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Numquam inventore nesciunt impedit laboriosam sint vero.</font></p>
+            </div>
+        </div>
+    <div class="sunset">
+        <h2><font face="Arial Narrow">we launch leaders with big ideas</font></h2>
+        <p><font face="Arial Narrow">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ullam aut <br> saepe nihil delectus inventorebr veritatis totam. Molestiae cum sit</font></p>
+        <img src="images/shape%20one.png" alt="">
+    </div>
+    <div class="shape"></div>
+    <div class="footer">
+        <div class="footer-left">
+            <h4><font face="Arial Narrow">Resources</font></h4>
+             <p><font face="Arial Narrow">Easily manage your inspiration and work-in-progress by <br>
+            dragging images into projects and sharable client groups. <br>
+            work-in-progess by draggin images into projects and <br>
+            sharable client group</font></p>
+        </div>
+        <div class="footer-right">
+            <div class="footer-right-left">
+                <h4><font face="Arial Narrow">About us</font></h4>
+             <p><font face="Arial Narrow">Easily manage your inspiration and work-in-progress by
+            dragging <br> images into projects and sharable client groups.
+            work-in-progess by <br> draggin images into projects and 
+            sharable client group</font></p>
+
+            </div>
+            <div class="footer-right-right">
+                <h4><font face="Arial Narrow">Stay in touch</font></h4><br>
+                <a href="#"><img src="images/FACEBOOK.png" alt=""></a>
+                <a href="#"><img src="images/TWITTER.png" alt=""></a>
+                <a href="#"><img src="images/YOUTUBE.png" alt=""></a>
+                <a href="#"><img src="images/LINKED%20IN.png" alt=""></a>
+            </div>
+        </div>
+       
+    </div>
+    <div class="footer-down">
+       <div class="footer-down-left">
+           <input type="text" placeholder="Your Name">
+       </div>
+       <div class="footer-down-right">
+           <input type="text" placeholder="Your Email">
+        <button>Join Newsletter
+        <img src="images/Recovered.png" alt="">
+        </button>
+       </div>
+        
+        
+    </div> 
+    
+</body>
+
+   
+   <style>
+    
+    
+    *{margin: 0px;padding: 0px;}
+
+    .header{height: 885px;width: 1600px;background-image: url(images/SLIDER-Kelly2019RESIGN.gif);background-repeat: no-repeat;background-size: cover;}
+
+    .header ul{list-style-type: none;padding-left: 50px;}
+
+    .header ul li a{text-decoration: none;float: left;color:black;padding: 28px;padding-top: 8px;margin: 5px;font-size: 30px;}
+
+    #navimg{height: 22px;width: 33px;}
+
+    .header ul li a:hover{text-decoration: none;float: left;color:whitesmoke;padding: 28px;padding-top: 8px;margin: 5px;font-size: 30px;}
+
+
+    #logo{height: 50px;width:70 px;padding-left: 50px;display: inline-block;padding-left: 260px;}
+
+    .header h3{padding-left: 960px;padding-top: 60px;color:white;word-spacing: 50px;font-size: 13px;}
+
+    o{word-spacing: normal;}
+
+    .header h2{padding-top: 615px; padding-left: 230px;font-size: 30px;}
+    .header h4{padding-left: 350px;}
+
+    .service{height: 450px;width: 1600px;background: #a2ca28;} 
+
+    .service-main{height: 450px;width: 80%;background: black;margin: 0 auto;}
+
+
+    .service1{height: 450px;width: 25%;background:  #a2ca28;float: left;}
+    .service1 img{margin-top: 100px;}.service1 h2{margin-top: 30px;color: white;font-size: 30px;}
+    .service1 p{margin-top: 30px;color: white;font-size: 18px;}
+    .service1 a{color: white;font-size: 18px;text-decoration: none;}
+
+
+    .service2{height: 450px;width: 25%;background:  #a2ca28; float: left;}
+    .service2 img{margin-top: 100px;}
+    .service2 h2{margin-top: 30px;color: white;font-size: 30px;}
+    .service2 p{margin-top: 30px;color: white;font-size: 18px;}
+    .service2 a{color: white;font-size: 18px;text-decoration: none;}
+
+    .service3{height: 450px;width: 25%;background:  #a2ca28;float: left;}
+    .service3 img{margin-top: 100px;}
+    .service3 h2{margin-top: 30px;color: white;font-size: 30px;}
+    .service3 p{margin-top: 30px;color: white;font-size: 18px;}
+    .service3 a{color: white;font-size: 18px;text-decoration: none;}
+
+    .service4{height: 450px;width: 25%;background:  #a2ca28; float: left;}
+    .service4 img{margin-top: 100px;}
+    .service4 h2{margin-top: 30px;color: white;font-size: 30px;}
+    .service4 p{margin-top: 30px;color: white;font-size: 18px;}
+    .service4 a{color: white;font-size: 18px;text-decoration: none;}
+
+    .woman{height: 400px;width: 1600px;background: #a2ca28;}
+
+    .woman-main{height: 400px;width: 80%;background: black;margin: 0 auto;}
+    .woman-left{height: 400px;width: 30%; background: white;float: left;}
+
+    .woman-left h4{color: red;text-align: center;margin-top: 55px;font-family: cursive;}
+
+    .woman-left h2{color: #a2ca28;text-align: center;margin-top: 5px;font-family: cursive;}
+
+    .woman-left img{margin-left: 180px;padding: 20px;}
+
+    .woman-left p{color: black;text-align: center;line-height: 1.5;}
+
+    .woman-left a{color: #a2ca28; margin-left: 160px;}
+
+    .woman-right{height: 400px;width: 70%;background-image: url(images/woman.jpg);background-size: cover;background-repeat: no-repeat;float: right;}
+
+    .woman-right h4{ padding-top: 300px;padding-left: 670px;color: white;word-spacing: 5px;}
+
+    .watch{height: 390px; width: 1600px;background: #a2ca28;}
+
+    .watch-main{height: 390px; width: 80%;background: black;margin: 0 auto;}
+
+    .watch-left{height: 390px;width: 70%;background-image: url(images/Watch.jpg);background-size: cover;background-repeat: no-repeat;float: left;}
+
+    .watch-left h4{padding-top: 300px;padding-left: 47px;color: white;word-spacing: 5px;}
+
+    #pvr{height:35px;padding-top: 15px;padding-left: 10px;}
+
+    .watch-right{height: 390px; width: 30%;background: white;float: right;}
+
+
+    .watch-right h4{color: red;text-align: center;margin-top: 55px;font-family: cursive;}
+
+    .watch-right h2{color: #a2ca28;text-align: center;margin-top: 5px;font-family: cursive;}
+
+    .watch-right img{margin-left: 180px;padding: 20px;}
+
+    .watch-right p{color: black;text-align: center;line-height: 1.5;}
+
+    .watch-right a{color: #a2ca28;margin-left: 160px;}
+
+    .man{height: 325px;width: 1600px;background: #fd634e;}
+
+
+    .man-main{height: 325px;width: 80%;background: green;margin: 0 auto;}
+
+    .man-left{height: 325px;width: 30%;background-image: url(images/bridge_runing.jpg);background-size: cover;background-repeat: no-repeat;float: left;}
+
+    .man-right{height: 325px;width: 70%;background-image: url(images/man.jpg);background-size: cover;background-repeat: no-repeat;float: right;}
+
+    .man-right h4{color: white;display: inline-block;padding-right: 50px;padding-top: 50px;padding-left: 50px;}
+
+    #cast{padding-left: 430px;margin-top: 20px;}
+
+    #img-loca{padding-left: 5px;height: 15px;}
+
+
+
+    .lifestyle{height: 300px;width: 1600px;background: #fd634e;}
+
+
+    .lifestyle-main{height: 300px;width: 80%;background: green;margin: 0 auto;}
+
+    .lifestyle-left{height: 300px;width: 30%;float: left;background: white;}
+
+
+    #tt{color: red; text-align: left; padding-top: 30px; padding-left: 30px; font-family: cursive;display: block;}
+
+    #yy{color: #a2ca28;text-align: left;padding: 10px 0px 0px 30px;font-family: cursive;display: inline-block;}
+
+    .lifestyle-left img{padding:0px 0px 0px 150px;}
+
+    .lifestyle-left p{color: black;text-align: left;line-height: 1.5;padding-left: 30px;padding-top: 10px;}
+
+    .lifestyle-right{height: 300px;width: 70%;float: right;background: #a2ca28;box-shadow: 0px 0px 15px 0px grey;}
+
+    .lifestyle-right h2{ color: white;font-size: 35px;text-align: left;padding-left: 50px;font-family: cursive;padding-top: 50px;}
+
+    .lifestyle-right p{color: white;text-align: left;line-height: 1.5;padding-left: 50px;padding-top: 10px;}
+
+    .fruits{height: 330px; width: 1600px;background: #fd634e;}
+
+
+    .fruits-main{height: 330px;width: 80%;background: black;margin: 0 auto;}
+
+    .fruits-left{ height: 330px;width: 70%;background-image: url(images/Fruits_sour.jpg); background-size: cover; background-repeat: no-repeat;float: left;}
+    
+    .fruits-right{height: 330px;width: 30%;background-image: url(images/Fruits.jpg);background-size: cover;background-repeat: no-repeat;float: right;}
+
+    .habits{height: 310px;width: 1600px;background: #fd634e;}
+
+    .habits-main{height: 310px;width: 80%;background: pink;margin: 0 auto;}
+
+    .habits-left{height: 310px;width: 70%;float: left; background: white;}
+
+    #dd{color: red;text-align: left;padding-top: 30px;padding-left: 30px;font-family: cursive;}
+
+    #ss{color: #a2ca28;text-align: left;padding:10px 0px 0px 30px;font-family: cursive;display: inline-block;}
+
+    .habits-left img{padding-left: 400px;}
+
+    .habits-left p{color: black;text-align: left; line-height: 1.5;padding-left: 30px;padding-top: 10px;}
+
+    .habits-right{height: 310px; width: 30%;float: right;background: #a2ca28;}
+
+
+    #qq{color: white;text-align: left;padding-top: 30px;padding-left: 30px;font-family: cursive;}
+
+    #rr{color: white;text-align: left;padding:10px 0px 0px 30px;font-family: cursive;display: inline-block;}
+
+    .habits-right img{padding-left: 120px;}
+
+    .habits-right p{color: white;text-align: left;line-height: 1.5;padding-left: 30px; padding-top: 10px;}
+
+    .sunset{height: 650px;width: 1600px;background-image: url(images/Man%20stand.jpg);background-size: cover;background-repeat: no-repeat;}
+
+
+    .sunset h2{color: white;font-size: 35px;text-align: left;padding-left: 507px;font-family: cursive;padding-top: 237px;}
+
+
+    .sunset p{color: white;text-align: left;line-height: 1.5;padding-left: 607px;padding-top: 33px;}
+
+    .sunset img{padding-top: 217px;}
+
+    .shape{height: 116px;width: 1600;background: #fd634e;}
+
+
+
+    .footer{height: 254px;width: 1600px;background: #0d1119;}
+
+
+    .footer-left{height: 254px;width: 670px;background: #0d1119;float: left;}
+
+    .footer-left h4{color: white;text-align: left;padding-left: 277px;font-family: cursive;padding-top: 63px;}
+
+
+    .footer-left p{color: white;text-align: left;line-height: 1.5;padding-left: 277px;font-size:10px;padding-top: 25px;}
+    
+    
+    .footer-right{height: 254px;width: 930px;background:pink;float: right;}
+
+    .footer-right-left{height: 254px;width: 370px;background: #0d1119;float: left;}
+
+    .footer-right-left h4{color: white;text-align: left;font-family: cursive;padding-top: 63px;}
+
+
+    .footer-right-left p{color: white;text-align: left;line-height: 1.5;font-size:10px;padding-top: 25px;}
+
+
+    .footer-right-right{height: 254px;width: 560px;background: #0d1119;float: right;}
+
+    .footer-right-right h4{color: white;text-align: left;font-family: cursive;padding-top: 63px;}
+
+    .footer-down{height: 490px;width: 1600px;background: blue;}
+
+
+    .footer-down-left{height: 100%;width: 50%;background: #0d1119;float: left;}
+
+    .footer-down-right{height: 100%;width: 50%;background: #0d1119; float: right;}
+
+    .footer-down-left input{ margin-left: 580px;margin-top: 10px;padding: 12px;border-collapse: inherit;font-size: 15px;}
+
+    .footer-down-right input{margin-left:10px;margin-top: 3px;padding: 12px;border-collapse: inherit;font-size: 15px;}
+
+    .footer-down-right button{color: white;background: #a2ca28;height: 42px; width: 150px;border-collapse: collapse;border-style: inherit;font-size: 15px;margin-top: 10px;margin-left: 10px;padding: 7px;}
+
+    .footer-down-right button:hover{color: white;background: #fd634e;height: 42px;width: 150px;border-collapse: collapse;border-style: inherit;font-size: 15px;margin-top: 10px;margin-left: 10px;padding: 7px;}
+
+    .footer-down-right button img{padding-top:7px;}
+
+</style>
+</html>
